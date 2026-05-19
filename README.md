@@ -69,6 +69,8 @@ Compare simulation results with pre-lab calculations and record observations.
 - **Pre-lab Calculations**  
 
 <img width="1041" height="1600" alt="WhatsApp Image 2026-05-19 at 22 07 00" src="https://github.com/user-attachments/assets/a45f9b49-7ff4-49cf-a645-58fc2162cf03" />
+<img width="1581" height="674" alt="WhatsApp Image 2026-05-19 at 22 15 42" src="https://github.com/user-attachments/assets/70aade40-ad33-4b6a-a890-312b6089c159" />
+
 
 
 - **Screenshots**
